@@ -13,7 +13,7 @@ I'm on a creative journey, passionate about crafting websites and UI designs. Ri
 
 ## 📫 Let's Connect
 
-Feel free to reach out and connect with me! https://in.linkedin.com/in/shrachisaini5518
+Feel free to reach out and connect with me! 
 
 ## 😄 Pronouns
 
