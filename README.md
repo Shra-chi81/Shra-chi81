@@ -19,14 +19,6 @@ Feel free to reach out and connect with me!
 
 You can call me Shrachi.
 
-### Show your support
-
-## Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
-<!-- Feel free to customize the sections further or add more information about your interests, projects, or anything else you'd like to share! -->
-
 
 
 <!---
