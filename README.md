@@ -1,11 +1,10 @@
-
 # Hey there, I'm Shrachi_81 👋
 
 I'm on a creative journey, passionate about crafting websites and UI designs. Right now, I'm immersing myself in the dynamic world of web development to level up my skills.
 
-## 🌱 Currently in the Learning Lane
+## 🌱 Currently Learning Technologies
 
-- Exploring the wonders of ReactJs and NextJs.
+- Exploring the wonders of NodeJS and NextJs.
 
 ## 💞 Open to Collaborate On
 
@@ -13,13 +12,11 @@ I'm on a creative journey, passionate about crafting websites and UI designs. Ri
 
 ## 📫 Let's Connect
 
-Feel free to reach out and connect with me! 
+Feel free to reach out and connect with me!
 
 ## 😄 Pronouns
 
 You can call me Shrachi.
-
-
 
 <!---
 Shra-chi81/Shra-chi81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
